@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://isobby94.github.io/resources-tpe0pe/sitemap.xml
